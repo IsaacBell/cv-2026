@@ -23,8 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 .vercel
-.env
-.env.local
 # Claude Code (memory, settings, plans, skills — all private)
 CLAUDE.md
 **/CLAUDE.md
@@ -55,3 +53,4 @@ chatbot/.playwright-mcp/
 # RAG
 .rag-hashes.json
 scripts/chunks/
+config.bat
